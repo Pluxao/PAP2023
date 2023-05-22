@@ -1,0 +1,11 @@
+.featured__item__text button{
+    padding: 2%;
+    border-radius: 4px;
+    background-color: #ff9300;
+    color: white;
+    font-size: 16px;
+    border: #ff9300;
+}
+.featured__item__text button h5{
+    color: white;
+}

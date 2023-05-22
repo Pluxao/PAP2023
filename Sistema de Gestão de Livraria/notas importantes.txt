@@ -1,0 +1,18 @@
+ALTER TABLE livros ADD CONSTRAINT FK_cod_categoria FOREIGN KEY(cod_categoria) REFERENCES livros_categorias (id_categoria) ON DELETE CASCADE;
+
+/*<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-6a657323-d480-46e3-b54e-3bb690ade163"></div>
+      */suporte
+
+<section class="text-center">
+    <iframe src="https://api.wo-cloud.com/content/widget/?geoObjectKey=6221589&language=pt&region=BR&timeFormat=HH:mm&windUnit=kmh&systemOfMeasurement=metric&temperatureUnit=celsius" name="CW2" scrolling="no" width="318" height="318" frameborder="0" style="border: 1px solid #ff9300;border-radius: 4%"></iframe>
+    </section>
+temperactura
+
+https://www.myalice.ai/whatsapp-widget
+
+
+https://apps.elfsight.com/panel/applications/
+
+
+zombs royale.io 
